@@ -1,1 +1,1 @@
-just a demo for sk.io
+just a demo for socket.io
